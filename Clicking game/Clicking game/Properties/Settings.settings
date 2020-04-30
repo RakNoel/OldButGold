@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Clicking_game.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Score15" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Score30" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Score60" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Name15" Type="System.String" Scope="User">
+      <Value Profile="(Default)">N/A</Value>
+    </Setting>
+    <Setting Name="Name30" Type="System.String" Scope="User">
+      <Value Profile="(Default)">N/A</Value>
+    </Setting>
+    <Setting Name="Name60" Type="System.String" Scope="User">
+      <Value Profile="(Default)">N/A</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

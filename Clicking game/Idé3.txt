@@ -1,0 +1,5 @@
+ - Lagre score på mer brukervennlig måte
+ - Kryptere score
+ - Kagre score i settings.settings
+ - Synkronisere score mot internett
+ - Optimalisere kode
